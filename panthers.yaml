@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Deborah
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> a2a75fd (Edit Panthers)
 
 members:
 - Violet
